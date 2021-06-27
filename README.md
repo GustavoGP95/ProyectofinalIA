@@ -1,2 +1,1 @@
-# ProyectofinalIA
-Trabajo bajo Final de Inteligencia Artificial 
+# Proyecto-final-de-IA
